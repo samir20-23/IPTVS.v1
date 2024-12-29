@@ -2,12 +2,9 @@
 <div id="badges"  align="center">
 <h1 align="center">by: Samir Aoulad Amar</h1>
 </div>
-<div id="header" align="center">
-    <a href="yhttps://github.com/dev-dragon-ahmed/">
-  <img src="https://giphy.com/embed/5xaOcLGwJiU6VzF7U3K" width="480"/>
-  <img src="https://giphy.com/gifs/guytrefler-disco-no-reception-5xaOcLGwJiU6VzF7U3K" width="480"/>
+<div id="header" align="center"> 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExM2Q1NDRlOW1oM3RobG15ajV6c29jODFsZjczZWlydGF5cTA5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xaOcLGwJiU6VzF7U3K/giphy.webp" width="480"/>
-  <img src="https://giphy.com/embed/5xaOcLGwJiU6VzF7U3K" width="480"/>
+
         
        </a>
     
